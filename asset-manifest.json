@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/petProj6-tours/static/css/main.52ecccf8.chunk.css",
+    "main.js": "/petProj6-tours/static/js/main.02f18f2b.chunk.js",
+    "main.js.map": "/petProj6-tours/static/js/main.02f18f2b.chunk.js.map",
+    "runtime-main.js": "/petProj6-tours/static/js/runtime-main.ad7eb1ae.js",
+    "runtime-main.js.map": "/petProj6-tours/static/js/runtime-main.ad7eb1ae.js.map",
+    "static/js/2.4a99414b.chunk.js": "/petProj6-tours/static/js/2.4a99414b.chunk.js",
+    "static/js/2.4a99414b.chunk.js.map": "/petProj6-tours/static/js/2.4a99414b.chunk.js.map",
+    "index.html": "/petProj6-tours/index.html",
+    "static/css/main.52ecccf8.chunk.css.map": "/petProj6-tours/static/css/main.52ecccf8.chunk.css.map",
+    "static/js/2.4a99414b.chunk.js.LICENSE.txt": "/petProj6-tours/static/js/2.4a99414b.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ad7eb1ae.js",
+    "static/js/2.4a99414b.chunk.js",
+    "static/css/main.52ecccf8.chunk.css",
+    "static/js/main.02f18f2b.chunk.js"
+  ]
+}
